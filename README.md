@@ -1,26 +1,31 @@
 Landing Page with TailwindCSS
-Welcome to the Project Name repository! This project is built using Vite and React to create a fast, modern web application. Below you'll find information on how to get started, how to use the project, and other relevant details.
+This project is built using Vite and React to create a fast, modern web application. Below you'll find information on how to get started, how to use the project, and other relevant details.
 
 
 Prerequisites
 Ensure you have the following installed:
+
 
 Node.js (version 14.x or higher)
 npm or yarn
 Installation
 Clone the repository:
 
+
 bash
 Copy code
 git clone https://github.com/dammy-onii/landing-page---tailwindCSS.git
 Navigate to the project directory:
+
 
 bash
 Copy code
 cd project-name
 Install dependencies:
 
+
 Using npm:
+
 
 bash
 Copy code
@@ -35,10 +40,12 @@ Start the development server:
 
 Using npm:
 
+
 bash
 Copy code
 npm run dev
 Or using yarn:
+
 
 bash
 Copy code
@@ -48,6 +55,7 @@ Open your browser and visit:
 
 Contributing
 Contributions are welcome! Please follow these steps to contribute:
+
 
 Fork the repository.
 Create a new branch: git checkout -b feature/your-feature-name.
@@ -59,6 +67,7 @@ Please ensure your code adheres to the project's coding standards and includes a
 
 Contact
 If you have any questions or feedback, feel free to reach out:
+
 
 Email: damilolaoni15@gmail.com
 GitHub: dammy-onii
