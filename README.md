@@ -1,6 +1,8 @@
 Landing Page with TailwindCSS
 This project is built using Vite and React to create a fast, modern web application. Below you'll find information on how to get started, how to use the project, and other relevant details.
 
+Visit Page Here: https://landingpage121.netlify.app/
+
 
 Prerequisites
 
@@ -25,53 +27,17 @@ git clone https://github.com/dammy-onii/landing-page---tailwindCSS.git
 Navigate to the project directory:
 
 
-bash
+Using npm: npm install
 
-Copy code
-
-cd project-name
-
-Install dependencies:
-
-
-Using npm:
-
-
-bash
-
-Copy code
-
-npm install
-
-Or using yarn:
-
-bash
-
-Copy code
-
-yarn install
+Or using yarn: yarn install
 
 Running the Project
 
 Start the development server:
 
-Using npm:
+Using npm: npm run dev
 
-
-bash
-
-Copy code
-
-npm run dev
-
-Or using yarn:
-
-
-bash
-
-Copy code
-
-yarn dev
+Or using yarn: yarn dev
 
 Open your browser and visit:
 
@@ -97,8 +63,6 @@ Please ensure your code adheres to the project's coding standards and includes a
 Contact
 
 If you have any questions or feedback, feel free to reach out:
-
-
 
 Email: damilolaoni15@gmail.com
 
